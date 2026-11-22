@@ -1,3 +1,5 @@
+mod problem4;
+
 fn main() {
-    println!("Hello, world!");
+    problem4::problem4::largest_palindrome_product();
 }
