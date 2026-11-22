@@ -1,1 +1,1 @@
-pub mod problem4;
+pub mod largest_palindrome_product_of_three_digits;
