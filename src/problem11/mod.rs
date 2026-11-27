@@ -1,0 +1,1 @@
+pub mod product_of_four_adj_numbers_in_one_direction;
